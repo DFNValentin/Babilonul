@@ -2,7 +2,6 @@
 
 Python CLI/Web tool for tracking personal expenses , income and budgets
 
-
 **Goals :**
 - Track daily Transactions
 - Categorize expenses 
@@ -10,5 +9,5 @@ Python CLI/Web tool for tracking personal expenses , income and budgets
 **Tech :**
 - Python 
 - Flask
-- SQLite /Postgresql
+- SQLite /PostgreSQL
 - Flask

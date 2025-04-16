@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turnul lui Hercule/Money-Traker/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "eea3c150dd5d1459",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turnul lui Hercule/Money-Traker/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turnul lui Hercule/Money-Traker/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turnul lui Hercule/Money-Traker/README.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,8 +170,9 @@
   },
   "active": "3b85bb5cb10b7eba",
   "lastOpenFiles": [
-    "README.md",
+    "Pasted image 20250417023927.png",
     "Turnul lui Hercule/Money-Traker/README.md",
+    "README.md",
     "Turnul lui Hercule/Money-Traker",
     "Turnul lui Hercule",
     "P-01",
